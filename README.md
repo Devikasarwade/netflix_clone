@@ -1,10 +1,12 @@
 # netflix_clone
 
 Netflix Clone Project
-Overview
+
+
+Overview:   
 This project is a clone of the popular streaming platform Netflix. It aims to replicate the core functionalities and user interface of Netflix, allowing users to browse, search, and watch a collection of movies and TV shows.
 
-Features
+Features:
 User Authentication: Users can sign up, log in, and log out securely. Authentication is implemented using [authentication library or technique].
 
 Browse Content: Users can browse through a vast library of movies and TV shows categorized by genre, popularity, and release date.
